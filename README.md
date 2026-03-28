@@ -1,7 +1,7 @@
 #EU Carbon Policies Regression Analysis
 
 **(1) OVERVIEW**<br>
-I use panel data from 1970 to 2023 to uncover whether EU membership reduces carbon emissions in European countries. 
+I use panel data from 1970 to 2023 to uncover whether EU membership, and therefore the eurozone-exclusive cap-and-trade system, reduces carbon emissions in European countries. 
 
 **(2) DATA**<br>
 Source: World Bank Open Data(https://data.worldbank.org/).<br>
