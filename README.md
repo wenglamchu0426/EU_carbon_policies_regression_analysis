@@ -18,4 +18,4 @@ Where EU is EU membership status (1 if in EU, 0 if not in EU), CO2Em is the metr
 β1 was hypothesized to be negative since EU members benefit from an eurozone-exclusive cap-and-trade system. 
 
 **(4) FINDINGS**<br>
-The regression analysis showed that the three interaction terms between EU membership and political stability, rule of law, and voice and accountability are statistically significant, while the main coefficient (β1) is not. This indicates that the effect of EU membership on carbon emissions may be moderated by the type/quality of governance in the country. 
+The regression analysis showed that the three interaction terms between EU membership and PoL, rule of law, and voice and accountability are statistically significant, while the main coefficient (β1) is not. This indicates that the effect of EU membership on carbon emissions may be moderated by the type/quality of governance in the country, but membership itself does not have a signiticant correlation with lower emissions. 
