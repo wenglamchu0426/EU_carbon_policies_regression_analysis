@@ -1,7 +1,7 @@
 #EU Carbon Policies Regression Analysis
 
 **(1) OVERVIEW**<br>
-I use panel data from 1970 to 2023 to uncover whether EU membership, and therefore the eurozone-exclusive policies, reduces carbon emissions in European countries. 
+I use panel data from 1970 to 2023 to uncover whether EU membership reduces carbon emissions in European countries. 
 
 **(2) DATA**<br>
 Source: World Bank Open Data(https://data.worldbank.org/).<br>
@@ -22,7 +22,7 @@ PoL = rule of law<br>
 VaA = voice and accountability<br>
 
 and:<br>
-β1 was hypothesized to be negative due to the presence of eurozone-exclusive policies like the cap-and-trade system. 
+β1 was hypothesized to be negative due to the presence of EU-exclusive policies like the cap-and-trade system. 
 
 **(4) FINDINGS**<br>
 The regression results indicate that all three interaction terms between EU membership and the WGIs are statistically significant, while the main coefficient β1 is not. This suggests that EU membership by itself is not directly associated with lower emissions. Rather, the effect of EU membership on emissions depends on the quality of governance: countries with higher political stability, stronger rule of law, and greater voice and accountability experience more substantial reductions in CO2 emissions.
