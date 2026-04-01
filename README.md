@@ -1,5 +1,4 @@
 #EU Carbon Policies Regression Analysis
-Date: Nov-Dec 2024
 
 **(1) OVERVIEW**<br>
 I use panel data from 1970 to 2023 to uncover whether EU membership reduces carbon emissions in European countries. 
