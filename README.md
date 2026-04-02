@@ -22,7 +22,7 @@ PoL = rule of law<br>
 VaA = voice and accountability<br>
 
 and:<br>
-β1 was hypothesized to be negative due to the presence of EU-exclusive policies like the cap-and-trade system. 
+β1 was hypothesized to be negative due to the presence of EU-exclusive policies like the EU ETS cap-and-trade system. 
 
 **(4) FINDINGS**<br>
-The regression results indicate that all three interaction terms between EU membership and the WGIs are statistically significant, while the main coefficient β1 is not. This suggests that EU membership by itself is not directly associated with lower emissions. Rather, the effect of EU membership on emissions depends on the quality of governance: countries with higher political stability, stronger rule of law, and greater voice and accountability experience more substantial reductions in CO2 emissions.
+The regression results indicate that all three interaction terms between EU membership and the WGIs are statistically significant, while the main coefficient β1 is not. This suggests that EU membership by itself is not directly associated with lower emissions. Rather, the effect of EU membership on emissions is moderated by World Governance Indicators (WGIs) like political stability, voice and accountability, and most importantly, rule of law. 
